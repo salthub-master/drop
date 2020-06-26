@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome To SaltHub
 
-You can use the [editor on GitHub](https://github.com/salthub-master/salthub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Game Guardian Script has different games, at the moment it has 5 games - Critical Ops, Pixel Gun/Strike 3D, Shadow Fight 2/3
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
