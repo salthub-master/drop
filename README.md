@@ -1,4 +1,3 @@
-# salthub
-Awesome script hub made by Salt
+# drop
 
 https://salthub-master.github.io/drop/
